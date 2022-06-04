@@ -1,4 +1,4 @@
-author 'Appeltje#7949'
+author 'NICK#8338'
 description 'sn-overheidsbericht - overheidsbericht'
 
 server_scripts {
