@@ -1,5 +1,5 @@
-author 'FL45H#5053'
-description 'sn-overheidsbericht - overheidsbericht'
+author 'Appeltje#5053'
+description 'ap-overheidsbericht - overheidsbericht'
 
 server_scripts {
 	'@es_extended/locale.lua',
